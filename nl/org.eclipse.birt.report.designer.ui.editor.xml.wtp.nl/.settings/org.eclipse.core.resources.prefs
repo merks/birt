@@ -1,2 +1,8 @@
 eclipse.preferences.version=1
 encoding/<project>=UTF-8
+encoding/plugin_de_DE.msg=windows-1252
+encoding/plugin_es_ES.msg=windows-1252
+encoding/plugin_fr_FR.msg=windows-1252
+encoding/plugin_ja_JP.msg=Shift_JIS
+encoding/plugin_ko_KR.msg=x-windows-949
+encoding/plugin_zh_CN.msg=GBK
